@@ -1,3 +1,15 @@
 .row {
     height: 75px;
 }
+
+.past {
+    background-color: rgb(165, 158, 158);
+}
+
+.present {
+    background-color: rgb(31, 204, 31);
+}
+
+.future {
+    background-color: yellow;
+}
