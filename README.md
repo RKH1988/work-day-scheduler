@@ -1,9 +1,10 @@
 # Work Day Scheduler
 
 ## Description
+App that allows a user to save the tasks associated with their work day. User can save and retrieve tasks from day-to-day using local storage.
 
 ## Screenshot
-![screenshot](/assets/images/screenshot.png)
+![screenshot](./assets/images/screenshot.png)
 
 
 ## Deployed Application 

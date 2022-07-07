@@ -57,3 +57,10 @@ $("#schedule-item16").text(localStorage.getItem("schedule-item16"));
 $("#schedule-item17").text(localStorage.getItem("schedule-item17"));
 
 
+$(schedule)
+    .focus(function() {
+        $(this).css("border", "5px solid #000000")
+    })
+    .blur(function(){
+        $(this).addClass("border border-light")
+    });

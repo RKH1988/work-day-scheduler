@@ -13,3 +13,7 @@
 .future {
     background-color: yellow;
 }
+
+.w-75:hover {
+    border: 5px solid #ffffff;
+}
